@@ -1,0 +1,6 @@
+1. Extract File ke Folder C:/Laragon/www
+2. buat database dengan nama master_project
+3. import database yang ada di folder database melalui phpmyadmin
+4. jalankan melalui browser dengan alamat localhost/master_project
+5. login dengan user admin password admin
+6. silahkan dikembangkan
